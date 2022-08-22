@@ -6,8 +6,8 @@
 
 # ☎️ Contact
 - 이메일: soshyzx123@gmail.com
-- 블로그: goonmorning.tistory.com
-- 깃허브: github.com/HWISU96
+- 블로그: [goonmorning.tistory.com](goonmorning.tistory.com)  
+- 깃허브: [github.com/HWISU96](github.com/HWISU96)
 
 <br/>
 
