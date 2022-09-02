@@ -21,11 +21,3 @@
   [프로젝트 상세 설명](https://github.com/HWISU96-Portfolio/Firstfarm_backend)
   
 <br/>
-
-- [물감](https://github.com/sungwookoo/drf_ai_mulgam_backend)  
-**유화 변환 웹 서비스**  
-개발 기간: 22.06.27 ~ 22.07.04 (1주)  
-
-  개발 스택: Python⎟Django⎟Javascript⎟HTML/CSS⎟AWS EC2/S3
-  
-  [프로젝트 상세 설명](https://github.com/sungwookoo/drf_ai_mulgam_backend)
