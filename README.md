@@ -1,6 +1,6 @@
 # 📑 김휘수 Portfolio
 
-[Notion](https://autumn-fog-802.notion.site/HWISU-9078a124cccf4d2c8c5fbe10adc2fc66)
+[Notion_Portfolio](https://autumn-fog-802.notion.site/HWISU-9078a124cccf4d2c8c5fbe10adc2fc66)
 
 <br/>
 
