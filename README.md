@@ -1,5 +1,3 @@
-<br/>
-
 ### 📑 김휘수
 - [이력서](https://autumn-fog-802.notion.site/HWISU-9078a124cccf4d2c8c5fbe10adc2fc66)
 - [이력서(노션)](https://autumn-fog-802.notion.site/HWISU-9078a124cccf4d2c8c5fbe10adc2fc66)
