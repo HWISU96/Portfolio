@@ -1,7 +1,7 @@
 <br/>
 
 ### 📑 김휘수
-- [이력서](https://autumn-fog-802.notion.site/HWISU-9078a124cccf4d2c8c5fbe10adc2fc66)
+- [이력서](https://drive.google.com/file/d/1yXiXqKqjaMHIzQ7iaDrK1sDhLP2HXN8i/view?usp=sharing)
 - [이력서(노션)](https://www.notion.so/musimblues/HWISU-9078a124cccf4d2c8c5fbe10adc2fc66?pvs=4)
 <br/>
 
