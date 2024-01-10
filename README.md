@@ -2,12 +2,10 @@
 
 ### 📑 김휘수
 - [이력서](https://drive.google.com/file/d/1yXiXqKqjaMHIzQ7iaDrK1sDhLP2HXN8i/view?usp=sharing)
-- [이력서(노션)](https://www.notion.so/musimblues/HWISU-9078a124cccf4d2c8c5fbe10adc2fc66?pvs=4)
 <br/>
 
 ### ☎️ 연락처
 - E-mail. soshyzx123@gmail.com
-- Blog. [goonmorning.tistory.com](https://goonmorning.tistory.com/)  
 - Github. [github.com/HWISU96](https://github.com/HWISU96)
 
 <br/>
