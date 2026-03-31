@@ -1,10 +1,6 @@
-<br/>
-
 ### 김휘수
 - [이력서](https://drive.google.com/file/d/1mO3TMgSpYZoFhSDHcj5iZ-4iO7H-x6tk/view?usp=drive_link)
-- E-mail. soshyzx123@gmail.com
-
-<br/>
+- E-mail: soshyzx123@gmail.com
 
 ### 프로젝트
 - [첫농](https://github.com/HWISU96-Portfolio/Firstfarm_backend)  
