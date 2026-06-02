@@ -9,19 +9,12 @@
 
 <br>
 
-<a href="mailto:soshyzx123@gmail.com"><img src="https://img.shields.io/badge/Gmail-soshyzx123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/HWISU96"><img src="https://img.shields.io/badge/GitHub-HWISU96-181717?style=flat-square&logo=github&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-soshyzx123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:soshyzx123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-HWISU96-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HWISU96)
 
 <br>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,redis,docker,jenkins,nginx,react,ts,python,fastapi,kotlin&perline=13)](https://skillicons.dev)
 
 </div>
 
@@ -44,11 +37,17 @@
 
 > SSAFY 교육생 대상 맞춤형 지출 관리 및 저축 플랫폼 | 2026.02 ~ 2026.03
 
-<a href="https://github.com/HWISU96/dont"><img src="https://img.shields.io/badge/GitHub-dont-181717?style=flat-square&logo=github"/></a>
+[![GitHub](https://img.shields.io/badge/GitHub-dont-181717?style=flat-square&logo=github)](https://github.com/HWISU96/dont)
+
+<!-- 아래 줄에 dont.png 드래그앤드롭 -->
+
+<img width="1000" height="660" alt="dont" src="https://github.com/user-attachments/assets/33a1f1ad-3058-454d-9b4f-20f567ff008a" />
+
 
 | | |
 |---|---|
-| 역할 | 6인 팀 · 백엔드 엔지니어 · 금융 및 랭킹 도메인 담당 |
+| 역할 | 6인 팀 · 백엔드 엔지니어 · 금융 및 랭킹 도메인 담당 |<img width="1536" height="1024" alt="dont" src="https://github.com/user-attachments/assets/50c361c2-2998-4297-8e14-a0081c86e491" />
+
 | 기술 | `Java` `Spring Boot` `PostgreSQL` `Redis` `FastAPI` `Docker` `Jenkins` `Nginx` |
 | 핵심 구현 | 외부 금융 API 연동 및 자동 저축 코어 로직 · Redis ZSET 실시간 랭킹 · SSE 브로드캐스트 |
 
@@ -61,7 +60,11 @@
 
 > 동서양 결합 맞춤형 AI 운세 웹 플랫폼 | 2026.01 ~ 2026.02
 
-<a href="https://github.com/HWISU96/yeji-portfolio"><img src="https://img.shields.io/badge/GitHub-yeji--portfolio-181717?style=flat-square&logo=github"/></a>
+[![GitHub](https://img.shields.io/badge/GitHub-yeji--portfolio-181717?style=flat-square&logo=github)](https://github.com/HWISU96/yeji-portfolio)
+
+<!-- 아래 줄에 yeji.png 드래그앤드롭 -->
+
+<img width="1000" height="660" alt="yeji" src="https://github.com/user-attachments/assets/75192316-1ffa-43bc-8710-3df459d19f0c" />
 
 | | |
 |---|---|
@@ -78,8 +81,12 @@
 
 > 농인 부모와 청인 자녀(CODA)를 위한 언어 발달 지원 앱 | 2026.04 ~ 2026.05
 
-<a href="https://github.com/HWISU96/suda"><img src="https://img.shields.io/badge/GitHub-suda-181717?style=flat-square&logo=github"/></a>
-<img src="https://img.shields.io/badge/SSAFY_자율_프로젝트-우수상-FFD700?style=flat-square"/>
+[![GitHub](https://img.shields.io/badge/GitHub-suda-181717?style=flat-square&logo=github)](https://github.com/HWISU96/suda)
+![SSAFY 자율 프로젝트 우수상](https://img.shields.io/badge/SSAFY_자율_프로젝트-우수상-FFD700?style=flat-square)
+
+<!-- 아래 줄에 suda.png 드래그앤드롭 -->
+
+<img width="660" height="1000" alt="suda_png" src="https://github.com/user-attachments/assets/8b536e0d-7ce8-4148-b1bb-6824f503bbc9" />
 
 | | |
 |---|---|
@@ -117,6 +124,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HWISU96&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HWISU96&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true)
 
 </div>
