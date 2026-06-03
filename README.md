@@ -46,9 +46,7 @@
 | | |
 |---|---|
 | 역할 | 6인 팀 · 백엔드 엔지니어 · 금융 및 랭킹 도메인 담당 |<img width="1536" height="1024" alt="dont" src="https://github.com/user-attachments/assets/50c361c2-2998-4297-8e14-a0081c86e491" />
-
 | 기술 | `Java` `Spring Boot` `PostgreSQL` `Redis` `FastAPI` `Docker` `Jenkins` `Nginx` |
-
 | 핵심 구현 | 외부 금융 API 연동 및 자동 저축 코어 로직 · Redis ZSET 실시간 랭킹 · SSE 브로드캐스트 |
 
 특정 키워드 입금 감지 시 자동 저축, 게이미피케이션 기반 실시간 랭킹, AI 소비 리포트를 제공하는 핀테크 웹 플랫폼입니다.
