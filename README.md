@@ -55,28 +55,6 @@
 
 ---
 
-### YEJI
-
-> 동서양 결합 맞춤형 AI 운세 웹 플랫폼 | 2026.01 ~ 2026.02
-
-[![GitHub](https://img.shields.io/badge/GitHub-yeji--portfolio-181717?style=flat-square&logo=github)](https://github.com/HWISU96/yeji-portfolio)
-
-<!-- 아래 줄에 yeji.png 드래그앤드롭 -->
-
-<img width="1000" height="660" alt="yeji" src="https://github.com/user-attachments/assets/75192316-1ffa-43bc-8710-3df459d19f0c" />
-
-| | |
-|---|---|
-| 역할 | 5인 팀 · 프론트엔드 전담 · 클라이언트-서버 통신 최적화 |
-| 기술 | `React` `TypeScript` `Spring Boot` `PostgreSQL` `Redis` `FastAPI` `vLLM` `Qwen3` |
-| 핵심 구현 | BFF 패턴 도입 주도 · SSE 스트리밍 기반 AI 응답 UX 구현 |
-
-팀 내 인력 공백으로 프론트엔드를 자진 전담하며, 클라이언트 입장에서 API를 직접 연동하는 경험을 쌓았습니다.
-
-서버 응답 구조가 프론트엔드 작업량에 미치는 영향을 체감하고, UI 컴포넌트 기준의 BFF 구조 도입을 주도했습니다.
-
----
-
 ### SUDA
 
 > 농인 부모와 청인 자녀(CODA)를 위한 언어 발달 지원 앱 | 2026.04 ~ 2026.05
@@ -97,6 +75,28 @@
 실제 농인 부모, CODA 사용자 인터뷰를 직접 주도하여 요구사항을 도출하고 서비스 방향을 피벗했습니다.
 
 초기 계획했던 백엔드 역할 대신, 프로젝트 목표에 맞춰 Android/Kotlin 개발로 역할을 전환하며 Jetpack Compose를 새로 학습하고 온디바이스 추론 기능을 구현했습니다.
+
+---
+
+### YEJI
+
+> 동서양 결합 맞춤형 AI 운세 웹 플랫폼 | 2026.01 ~ 2026.02
+
+[![GitHub](https://img.shields.io/badge/GitHub-yeji--portfolio-181717?style=flat-square&logo=github)](https://github.com/HWISU96/yeji-portfolio)
+
+<!-- 아래 줄에 yeji.png 드래그앤드롭 -->
+
+<img width="1000" height="660" alt="yeji" src="https://github.com/user-attachments/assets/75192316-1ffa-43bc-8710-3df459d19f0c" />
+
+| | |
+|---|---|
+| 역할 | 5인 팀 · 프론트엔드 전담 · 클라이언트-서버 통신 최적화 |
+| 기술 | `React` `TypeScript` `Spring Boot` `PostgreSQL` `Redis` `FastAPI` `vLLM` `Qwen3` |
+| 핵심 구현 | BFF 패턴 도입 주도 · SSE 스트리밍 기반 AI 응답 UX 구현 |
+
+팀 내 인력 공백으로 프론트엔드를 자진 전담하며, 클라이언트 입장에서 API를 직접 연동하는 경험을 쌓았습니다.
+
+서버 응답 구조가 프론트엔드 작업량에 미치는 영향을 체감하고, UI 컴포넌트 기준의 BFF 구조 도입을 주도했습니다.
 
 ---
 
@@ -123,8 +123,3 @@
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HWISU96&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true)
-
-</div>
