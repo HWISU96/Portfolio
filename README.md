@@ -64,7 +64,7 @@
 
 <!-- 아래 줄에 suda.png 드래그앤드롭 -->
 
-<img width="660" height="1000" alt="suda_png" src="https://github.com/user-attachments/assets/8b536e0d-7ce8-4148-b1bb-6824f503bbc9" />
+<img width="440" height="700" alt="suda_png" src="https://github.com/user-attachments/assets/8b536e0d-7ce8-4148-b1bb-6824f503bbc9" />
 
 | | |
 |---|---|
